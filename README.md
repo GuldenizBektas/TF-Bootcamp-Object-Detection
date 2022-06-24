@@ -67,6 +67,7 @@ tensorflow -
 ```
 
 The notes taken from the Michigan Universities Object Detection lecture. Check that out: https://www.youtube.com/watch?v=TB-fdISzpHQ&t=3744s
+
 And watch the videos:
 - https://www.youtube.com/watch?v=IOI0o3Cxv9Q&t=1335s
 - https://www.youtube.com/watch?v=T9KfYaS9hwQ&t=414s
